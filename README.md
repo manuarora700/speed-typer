@@ -1,4 +1,4 @@
-# speedTyping
+# Speed Typer
 
 JavaScript plugin to test your Typing speed.
 
