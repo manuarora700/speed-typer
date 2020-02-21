@@ -1,2 +1,4 @@
-# speed-typer
-🏍 Test your typing speed (WPM, CPM) on this web application built with Vanilla JS. 
+# speedTyping
+Native JavaScript plugin to test your Typing speed.
+
+#### [Demo](https://awran5.github.io/speedTyping/)
